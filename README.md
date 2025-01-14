@@ -67,10 +67,10 @@
 ## Logs ✒️
 <div style="display:flex; flex-direction:row;">
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="62%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=S-C-Jeong&theme=tokyonight&show_icons=true" width="62%" />
     </a>
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="62%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-C-Jeong&exclude_repo=S-C-Jeong.github.io&layout=compact&theme=tokyonight" width="62%" />
     </a>
 </div><br>
 
@@ -78,10 +78,10 @@
 
 
 <!--
-**pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**S-C-Jeong/S-C-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Graph ↗️
-[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
+[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S-C-Jeong&theme=dracula)](https://github.com/S-C-Jeong/github-readme-activity-graph)
 
 [![Video Label](http://img.youtube.com/vi/'유튜브주소의id'/0.jpg)](https://youtu.be/'유튜브주소의id')
 
